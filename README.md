@@ -1,1 +1,1 @@
-# ejercicios-clase
+# ejemplo-clase
